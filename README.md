@@ -1,0 +1,2 @@
+# MynewProject
+Simple first project
